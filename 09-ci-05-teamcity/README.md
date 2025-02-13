@@ -7,7 +7,7 @@
 3. Создайте ещё один инстанс (2CPU4RAM) на основе образа `jetbrains/teamcity-agent`. Пропишите к нему переменную окружения `SERVER_URL: "http://<teamcity_url>:8111"`.
 4. Авторизуйте агент.
 5. Сделайте fork [репозитория](https://github.com/aragastmatb/example-teamcity).
-   [(https://github.com/rbudarin/example-teamcity)](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/09-ci-05-teamcity/teamcity/TeamCity_Backup.zip)
+   [fork-репозитория](https://github.com/rbudarin/example-teamcity)
 6. Создайте VM (2CPU4RAM) и запустите [playbook](./infrastructure).
 
 ![teamcity02.png](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/09-ci-05-teamcity/screen/teamcity02.png)
@@ -42,7 +42,7 @@
 17. Проведите повторную сборку мастера, убедитесь, что сбора прошла успешно и артефакты собраны.
     ![teamcity10.png](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/09-ci-05-teamcity/screen/teamcity10.png)
 18. Проверьте, что конфигурация в репозитории содержит все настройки конфигурации из teamcity.
-     [[(https://github.com/rbudarin/example-teamcity)](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/09-ci-05-teamcity/teamcity/TeamCity_Backup.zip)](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/09-ci-05-teamcity/teamcity/TeamCity_Backup.zip)
+    [backup-teancity](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/09-ci-05-teamcity/teamcity/TeamCity_Backup.zip)
 19. В ответе пришлите ссылку на репозиторий.
 
 ---
