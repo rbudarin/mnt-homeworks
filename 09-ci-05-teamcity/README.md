@@ -9,7 +9,7 @@
 5. Сделайте fork [репозитория](https://github.com/aragastmatb/example-teamcity).
 6. Создайте VM (2CPU4RAM) и запустите [playbook](./infrastructure).
 
-!(teamcity02.png)[https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/09-ci-05-teamcity/screen/teamcity02.png]
+![teamcity02.png](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/09-ci-05-teamcity/screen/teamcity02.png)
 
 ## Основная часть
 
