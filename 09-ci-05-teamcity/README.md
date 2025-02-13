@@ -42,7 +42,7 @@
 17. Проведите повторную сборку мастера, убедитесь, что сбора прошла успешно и артефакты собраны.
     ![teamcity10.png](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/09-ci-05-teamcity/screen/teamcity10.png)
 18. Проверьте, что конфигурация в репозитории содержит все настройки конфигурации из teamcity.
-    [backup-teancity](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/09-ci-05-teamcity/teamcity/TeamCity_Backup.zip)
+    [backup-teamcity](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/09-ci-05-teamcity/teamcity/TeamCity_Backup.zip)
 19. В ответе пришлите ссылку на репозиторий.
 
 ---
