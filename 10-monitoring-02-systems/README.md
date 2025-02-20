@@ -89,6 +89,7 @@ Push-система мониторинга
 
 P.S.: если при запуске некоторые контейнеры будут падать с ошибкой - проставьте им режим `Z`, например
 `./data:/var/lib:Z`
+!(chronograf01.png)[https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/10-monitoring-02-systems/screen/chronograf01.png]
 #
 8. Перейдите в веб-интерфейс Chronograf (http://localhost:8888) и откройте вкладку Data explorer.
         
@@ -98,6 +99,7 @@ P.S.: если при запуске некоторые контейнеры б�
     - Вверху вы можете увидеть запрос, аналогичный SQL-синтаксису. Поэкспериментируйте с запросом, попробуйте изменить группировку и интервал наблюдений.
 
 Для выполнения задания приведите скриншот с отображением метрик утилизации cpu из веб-интерфейса.
+!(chronograf02.png)[https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/10-monitoring-02-systems/screen/chronograf02.png]
 #
 9. Изучите список [telegraf inputs](https://github.com/influxdata/telegraf/tree/master/plugins/inputs). 
 Добавьте в конфигурацию telegraf следующий плагин - [docker](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/docker):
