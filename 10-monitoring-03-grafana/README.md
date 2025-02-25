@@ -39,11 +39,27 @@
 Создайте Dashboard и в ней создайте Panels:
 
 - утилизация CPU для nodeexporter (в процентах, 100-idle);
+  ```
+  avg by (instance) (rate(node_cpu_seconds_total{job="nodeexporter",mode="idle"}[10s])) * 100
+  ```
 - CPULA 1/5/15;
+  ```
+  node_load1
+  node_load5 
+  node_load15
+  ```
 - количество свободной оперативной памяти;
+  ```
+  node_memory_MemAvailable_bytes / 1024 / 1024
+  ```
 - количество места на файловой системе.
+  ```
+  node_filesystem_free_bytes{fstype!~"tmpfs|rootfs"} / 1024 / 1024 / 1024
+  ```
 
 Для решения этого задания приведите promql-запросы для выдачи этих метрик, а также скриншот получившейся Dashboard.
+
+![grafana02.png](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/10-monitoring-03-grafana/screen/grafana02.png)
 
 ## Задание 3
 
