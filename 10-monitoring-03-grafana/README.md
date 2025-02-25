@@ -25,6 +25,7 @@
 1. Зайдите в веб-интерфейс grafana, используя авторизационные данные, указанные в манифесте docker-compose.
 1. Подключите поднятый вами prometheus, как источник данных.
 1. Решение домашнего задания — скриншот веб-интерфейса grafana со списком подключенных Datasource.
+
 ![grafana01.png](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/10-monitoring-03-grafana/screen/grafana01.png)
 ---
 ## Задание 2
