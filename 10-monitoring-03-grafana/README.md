@@ -68,6 +68,8 @@
 
 ![grafana03.png](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/10-monitoring-03-grafana/screen/grafana03.png)
 ![grafana04.png](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/10-monitoring-03-grafana/screen/grafana04.png)
+![grafana05.png](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/10-monitoring-03-grafana/screen/grafana05.png)
+![grafana06.png](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/10-monitoring-03-grafana/screen/grafana06.png)
 ---
 
 ## Задание 4
