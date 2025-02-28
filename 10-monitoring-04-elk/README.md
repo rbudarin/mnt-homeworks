@@ -45,6 +45,7 @@ Filebeat следует сконфигурировать для отправки
 - ваши yml-конфигурации для стека (если вы не использовали директорию help).
 
 ![elk01](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/10-monitoring-04-elk/screen/elk01.png)
+![elk02](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/10-monitoring-04-elk/screen/elk02.png)
 
 ## Задание 2
 
