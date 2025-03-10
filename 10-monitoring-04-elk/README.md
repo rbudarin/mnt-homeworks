@@ -57,6 +57,7 @@ Filebeat следует сконфигурировать для отправки
 Эти логи должны порождать индекс logstash-* в elasticsearch. Если этого индекса нет — воспользуйтесь советами и источниками из раздела «Дополнительные ссылки» этого задания.
 
 ![elk03](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/10-monitoring-04-elk/screen/elk03.png)
+![elk04](https://github.com/rbudarin/mnt-homeworks/blob/MNT-video/10-monitoring-04-elk/screen/elk04.png)
 ---
 
 ### Как оформить решение задания
